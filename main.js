@@ -72,7 +72,7 @@ const connectionOptions = {
 logger: P({ level: 'silent' }),
 printQRInTerminal: true,
 auth: state,
-browser: ['GataBotLite-MD','Edge','107.0.1418.26'],
+browser: ['ArmandBotLite-MD','Edge','107.0.1418.26'],
 }
 
 global.conn = makeWASocket(connectionOptions)

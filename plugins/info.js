@@ -116,8 +116,8 @@ let codigo = `termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
-cd GataBotLite-MD
+git clone https://github.com/ArmandoRN/ArmandBotLite-MD
+cd ArmandBotLite-MD
 yarn install
 npm install
 npm start`
@@ -126,8 +126,8 @@ heroku/nodejs\n
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git\n
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git`
 let codigo3 = `
-git clone https://github.com/GataNina-Li/GataBotLite-MD
-cd GataBotLite-MD
+git clone https://github.com/ArmandoRN/ArmandBotLite-MD
+cd ArmandBotLite-MD
 npm install
 npm update
 node .`

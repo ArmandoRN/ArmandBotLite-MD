@@ -80,8 +80,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝘼𝙧𝙢𝙖𝙣𝙙𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝘼𝙧𝙢𝙖𝙣 𝘿𝙞𝙤𝙨'
+global.packname = '𝘼𝙧𝙢𝙖𝙣𝙙𝘽𝙤𝙩'
+global.author = '𝘼𝙧𝙢𝙖𝙣𝘿𝙞𝙤𝙨'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
@@ -103,7 +103,7 @@ global.gt = '𝘼𝙧𝙢𝙖𝙣𝙙𝘽𝙤𝙩-𝙈𝘿'
 //global.yt = 'https://youtube.com/@gatadios'
 //global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/armando_name'
-//global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
+//global.md = 'https://github.com/ArmandoRN/ArmandBotLite-MD'
 //global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 /*
